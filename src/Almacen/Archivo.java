@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class Archivo {
     

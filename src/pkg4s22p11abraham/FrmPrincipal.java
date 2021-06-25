@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p11vba;
+package pkg4s22p11abraham;
 
 import Almacen.Archivo;
 import Informacion.Datos;
@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 
